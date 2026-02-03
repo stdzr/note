@@ -33,5 +33,5 @@ const name = "qa";
 **[link](https://github.com/repos)**  
 **[click here](https://github.com/repos)**
 # 6.图片
-![kobi]()
+![kobi](https://github.com/stdzr/note/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-02%20223810.png)
 
