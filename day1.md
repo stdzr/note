@@ -170,5 +170,9 @@
 ### 44 PHOTODIODE(光敏二极管)  
 ![](https://i-blog.csdnimg.cn/blog_migrate/d5c7421c8ab8952ecd2900f4183739fb.png#pic_center)
 ### 本文为CSDN博主「kdnnnd」的原创文章
-原文链接：**[https://blog.csdn.net/kdnnnd/article/details/122754372](https://blog.csdn.net/kdnnnd/article/details/122754372)**
+原文链接：**[https://blog.csdn.net/kdnnnd/article/details/122754372](https://blog.csdn.net/kdnnnd/article/details/122754372)**  
+## 简单的LED串联电路  
+![]()  
+### 点亮
+![]()
 
