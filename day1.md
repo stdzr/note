@@ -7,7 +7,7 @@
 
 **拼搏一百天，我要进QG**  
 
-![photo](https://github.com/stdzr/note/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-02%20223810.png)  
+![photo](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-02%20223810.png)  
 ## proteus常用元件图示和名称
 ### 1 SWITCH(一位开关)
 ### SWITCH 一位开关
