@@ -180,7 +180,7 @@
 ## Proteus中调用keil生成的hex文件  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-05%20125438.png)  
 
-![]()  
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-05%20125456.png)  
 ![]()  
 ![]()  
 
