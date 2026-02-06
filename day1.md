@@ -16,7 +16,13 @@
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20193116.png)
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20193220.png)  
 ### 基础格式
-![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20193433.png)
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20193433.png)  
+## 生成hex文件  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
 ## proteus常用元件图示和名称
 ### 1 SWITCH(一位开关)
 ### SWITCH 一位开关
