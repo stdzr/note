@@ -22,7 +22,7 @@
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20210936.png)  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20210957.png)  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20211128.png)  
-![]()  
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-06%20212138.png)  
 ## proteus常用元件图示和名称
 ### 1 SWITCH(一位开关)
 ### SWITCH 一位开关
