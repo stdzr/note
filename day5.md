@@ -3,7 +3,7 @@ Gpio口读入模拟信号后可以经过一个节点有上拉电阻和下拉电�
 # LED
 LED原理是发光二极管，信号为1时发光，用16进制控制一组8个LED
 # 1mm延时函数
-```
+```javascript
 void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 {
 	unsigned char i, j;
