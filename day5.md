@@ -45,3 +45,6 @@ void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 7：0x07  
 8：0x7F  
 9：0x6F  
+# 矩阵键盘
+P1口控制，0~3：纵向 4~8:横向
+# 
