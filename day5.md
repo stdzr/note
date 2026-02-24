@@ -22,4 +22,5 @@ void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 点亮后延迟1ms
 # 独立按键
 接P3的0,1,2,3口和GND,用if语句判断
-# 
+# 数码管
+分共阴极和共阳极，
