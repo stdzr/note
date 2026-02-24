@@ -19,7 +19,7 @@ void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 }
 ```
 # LED消影 
-点亮后延迟1ms
+点亮后延迟1ms,LED清零
 # 独立按键
 接P3的0,1,2,3口和GND,用if语句判断
 # 数码管
