@@ -25,7 +25,7 @@ void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 # 数码管
 分共阴极和共阳极，如图  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-02-24%20135904.png)  
-8个com口对应P2口，共阳极P2口设置为1，共阴极则0  
+8个com口对应P2口，共阳极P2口设置为1，共阴极则0,8个位置的P2口16进制表示式如下  
 1:P2=0xFE  
 2:P2=0xFD  
 3:P2=0xFB  
