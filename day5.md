@@ -48,8 +48,11 @@ void Delay(unsigned int xms) //形参xms控制延迟xms毫秒
 # 矩阵键盘
 P1口控制，0-3：纵向 4-8:横向  
 按键扫描可以用先纵后横或相反  
-可以用类似语句`if(P3_0 == 0){Delay(20);while(P3_0 == 0);Delay(20);number = 1;}`来按键扫描
+可以用类似语句`if(P3_0 == 0){Delay(20);while(P3_0 == 0);Delay(20);number = 1;}`来按键扫描  
+其中`while(P3_0 == 0)`是检测松手，number用来充当实现某一指令的判断要素
 # 定时器
+程序中要调用定时器模块要先配置好相应的寄存器，以配置89C52定时器1的例子来看，下图是配置寄存器参数的函数  
+![]()
 如图是89C52的定时器1的原理图，写程序要调用定时器模块要配置和这3个模块的参数  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-04%20205703.png)  
 如图： 
@@ -58,6 +61,6 @@ P1口控制，0-3：纵向 4-8:横向
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-04%20210259.png)  
 其中可否位寻址的意思是：可以位寻址代表可以直接挑取8位参数其一来赋值，不可位寻址则必须同时给8位赋值  
 中断配置：  
-![]()  
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-04%20232209.png)  
 
 
