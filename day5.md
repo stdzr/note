@@ -57,4 +57,7 @@ P1口控制，0-3：纵向 4-8:横向
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-04%20210244.png)  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-04%20210259.png)  
 其中可否位寻址的意思是：可以位寻址代表可以直接挑取8位参数其一来赋值，不可位寻址则必须同时给8位赋值  
+中断配置：  
+![]()  
+
 
