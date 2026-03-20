@@ -71,7 +71,7 @@ P1口控制，0-3：纵向 4-8:横向
 # LED点阵屏
 原理与数码管大致相同，但在io口的拓展是使用的方法有所不同，数码管用的是38译码器，用3个io口来控制8个com口为低电平，LED点阵屏用的则是74HC595  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-20%20200241.png)  
-![]()  
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-20%20200853.png)  
 ![]()  
 74HC595的原理是SER送入0或1的数据，SLCLK
 
