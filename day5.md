@@ -69,11 +69,12 @@ P1口控制，0-3：纵向 4-8:横向
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-06%20224815.png)  
 
 # LED点阵屏
-原理与数码管大致相同，但在io口的拓展是使用的方法有所不同，数码管用的是38译码器，用3个io口来控制8个com口为低电平，LED点阵屏用的则是74HC595  
+原理与数码管大致相同，但在io口的拓展是使用的方法有所不同，数码管用的是38译码器，用3个io口来控制8个com口为低电平，LED点阵屏用的则是74HC595移位寄存器  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-20%20200241.png)  
 ![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-20%20200853.png)  
-![]()  
-74HC595的原理是SER送入0或1的数据，SLCLK
+![](https://github.com/stdzr/note/blob/main/photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-03-20%20200903.png)  
+74HC595的原理是SER送入0或1的数据，SERCLK开始要置0，置1时启用，将数据整体下移，超出部分看有没有多片级联，有的话往下一个74HC595寄存器移，没有的话超出部分被舍弃，RCLK开始也要置0，置1时启用，将数据锁存给QA-QH，QA-QH对应的是D0-D7。  
+
 
 
 
